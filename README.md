@@ -1,2 +1,3 @@
 # hello-world
-JUst my first repository
+Just my first repository
+hi my names is vikkking and i'm just a beginner
